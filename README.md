@@ -2,4 +2,4 @@
 
 + AIBNB 
 
-[링크](file:///C:/Users/ADMIN/Desktop/funweb/AIRBNB/index.html)
+[링크](https://lemonsatang.github.io/AIRBNB/)
